@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Histogram">
+        <attr name="y_amount" format="integer"/>
+        <attr name="y_step" format="integer"/>
+        <attr name="x_amount" format="integer"/>
+        <attr name="x_step" format="integer"/>
+        <attr name="item_background" format="reference"/>
+        <attr name="divider_color" format="color"/>
+    </declare-styleable>
+</resources>
